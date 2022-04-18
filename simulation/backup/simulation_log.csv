@@ -1,0 +1,397 @@
+Day,Time,Event,len(Queue)
+1,8:03,Car 53 starts traveling,NA
+1,8:04,Car 21 starts traveling,NA
+1,8:05,Car 71 starts traveling,NA
+1,8:05,Car 73 starts traveling,NA
+1,8:07,Car 9 starts traveling,NA
+1,8:07,Car 21 arrives at charger 4,1
+1,8:10,Car 28 starts traveling,NA
+1,8:11,Car 39 starts traveling,NA
+1,8:13,Car 73 arrives at charger 3,1
+1,8:13,Car 90 starts traveling,NA
+1,8:14,Car 14 starts traveling,NA
+1,8:15,Car 71 arrives at charger 2,1
+1,8:16,Car 9 arrives at charger 4,1
+1,8:16,Car 53 arrives at charger 9,1
+1,8:20,Car 8 starts traveling,NA
+1,8:20,Car 28 arrives at charger 8,1
+1,8:21,Car 39 arrives at charger 2,1
+1,8:22,Car 8 arrives at charger 3,1
+1,8:24,Car 20 starts traveling,NA
+1,8:24,Car 90 arrives at charger 5,1
+1,8:27,Car 14 arrives at charger 1,1
+1,8:30,Car 18 starts traveling,NA
+1,8:30,Car 69 starts traveling,NA
+1,8:31,Car 99 starts traveling,NA
+1,8:32,Car 20 arrives at charger 7,1
+1,8:32,Car 69 arrives at charger 10,1
+1,8:33,Car 67 starts traveling,NA
+1,8:36,Car 22 starts traveling,NA
+1,8:38,Car 11 starts traveling,NA
+1,8:40,Car 19 starts traveling,NA
+1,8:40,Car 24 starts traveling,NA
+1,8:41,Car 32 starts traveling,NA
+1,8:41,Car 67 arrives at charger 7,1
+1,8:41,Car 99 arrives at charger 1,1
+1,8:41,Car 32 arrives at charger 5,1
+1,8:42,Car 22 arrives at charger 10,1
+1,8:43,Car 18 arrives at charger 8,1
+1,8:44,Car 11 arrives at charger 9,1
+1,8:46,Car 24 arrives at charger 6,1
+1,8:47,Car 75 starts traveling,NA
+1,8:48,Car 19 arrives at charger 6,1
+1,8:51,Car 2 starts traveling,NA
+1,8:51,Car 75 arrives at charger 10,2
+1,8:51,Car 94 starts traveling,NA
+1,8:54,Car 2 arrives at charger 7,2
+1,8:55,Car 43 starts traveling,NA
+1,8:56,Car 84 starts traveling,NA
+1,8:57,Car 40 starts traveling,NA
+1,8:59,Car 46 starts traveling,NA
+1,9:00,Car 45 starts traveling,NA
+1,9:00,Car 92 starts traveling,NA
+1,9:02,Car 63 starts traveling,NA
+1,9:03,Car 57 starts traveling,NA
+1,9:04,Car 6 starts traveling,NA
+1,9:05,Car 26 starts traveling,NA
+1,9:06,Car 43 arrives at charger 1,2
+1,9:07,Car 84 arrives at charger 1,3
+1,9:07,Car 94 arrives at charger 10,3
+1,9:09,Car 36 starts traveling,NA
+1,9:09,Car 38 starts traveling,NA
+1,9:09,Car 45 arrives at charger 7,3
+1,9:10,Car 37 starts traveling,NA
+1,9:11,Car 74 starts traveling,NA
+1,9:12,Car 3 starts traveling,NA
+1,9:12,Car 14 departs at charger 1,3
+1,9:13,Car 46 arrives at charger 1,3
+1,9:14,Car 6 arrives at charger 3,2
+1,9:15,Car 38 arrives at charger 5,2
+1,9:15,Car 40 arrives at charger 8,2
+1,9:15,Car 57 arrives at charger 4,2
+1,9:15,Car 97 starts traveling,NA
+1,9:16,Car 3 arrives at charger 2,2
+1,9:16,Car 89 starts traveling,NA
+1,9:16,Car 92 arrives at charger 1,4
+1,9:17,Car 51 starts traveling,NA
+1,9:17,Car 20 departs at charger 7,3
+1,9:17,Car 69 departs at charger 10,3
+1,9:18,Car 13 starts traveling,NA
+1,9:18,Car 34 starts traveling,NA
+1,9:18,Car 85 starts traveling,NA
+1,9:19,Car 36 arrives at charger 7,3
+1,9:20,Car 13 arrives at charger 10,3
+1,9:20,Car 14 finish traveling,NA
+1,9:20,Car 26 arrives at charger 7,4
+1,9:20,Car 63 arrives at charger 10,4
+1,9:20,Car 69 finish traveling,NA
+1,9:21,Car 1 starts traveling,NA
+1,9:21,Car 20 finish traveling,NA
+1,9:22,Car 4 starts traveling,NA
+1,9:24,Car 97 arrives at charger 10,5
+1,9:25,Car 12 starts traveling,NA
+1,9:26,Car 29 starts traveling,NA
+1,9:26,Car 37 arrives at charger 1,5
+1,9:26,Car 51 arrives at charger 7,5
+1,9:26,Car 87 starts traveling,NA
+1,9:26,Car 89 arrives at charger 1,6
+1,9:28,Car 4 arrives at charger 7,6
+1,9:28,Car 29 arrives at charger 10,6
+1,9:28,Car 85 arrives at charger 3,3
+1,9:29,Car 74 arrives at charger 4,3
+1,9:30,Car 34 arrives at charger 2,3
+1,9:33,Car 12 arrives at charger 5,3
+1,9:36,Car 59 starts traveling,NA
+1,9:36,Car 72 starts traveling,NA
+1,9:37,Car 23 starts traveling,NA
+1,9:38,Car 1 arrives at charger 6,2
+1,9:38,Car 33 starts traveling,NA
+1,9:39,Car 87 arrives at charger 9,2
+1,9:41,Car 7 starts traveling,NA
+1,9:41,Car 42 starts traveling,NA
+1,9:41,Car 52 starts traveling,NA
+1,9:44,Car 5 starts traveling,NA
+1,9:45,Car 23 arrives at charger 8,3
+1,9:45,Car 30 starts traveling,NA
+1,9:45,Car 72 arrives at charger 7,7
+1,9:45,Car 82 starts traveling,NA
+1,9:47,Car 33 arrives at charger 10,7
+1,9:50,Car 52 arrives at charger 1,7
+1,9:51,Car 10 starts traveling,NA
+1,9:52,Car 7 arrives at charger 7,8
+1,9:53,Car 59 arrives at charger 10,8
+1,9:53,Car 66 starts traveling,NA
+1,9:53,Car 66 arrives at charger 1,8
+1,9:54,Car 5 arrives at charger 4,4
+1,9:54,Car 42 arrives at charger 1,9
+1,9:54,Car 50 starts traveling,NA
+1,9:55,Car 41 starts traveling,NA
+1,9:56,Car 30 arrives at charger 3,4
+1,9:57,Car 99 departs at charger 1,9
+1,9:58,Car 41 arrives at charger 7,9
+1,10:02,Car 91 starts traveling,NA
+1,10:02,Car 99 finish traveling,NA
+1,10:02,Car 67 departs at charger 7,9
+1,10:02,Car 22 departs at charger 10,8
+1,10:03,Car 49 starts traveling,NA
+1,10:03,Car 81 starts traveling,NA
+1,10:04,Car 10 arrives at charger 10,8
+1,10:05,Car 22 finish traveling,NA
+1,10:05,Car 67 finish traveling,NA
+1,10:05,Car 82 arrives at charger 8,4
+1,10:06,Car 50 arrives at charger 5,4
+1,10:06,Car 79 starts traveling,NA
+1,10:07,Car 21 departs at charger 4,4
+1,10:08,Car 95 starts traveling,NA
+1,10:09,Car 77 starts traveling,NA
+1,10:10,Car 21 finish traveling,NA
+1,10:10,Car 49 arrives at charger 2,4
+1,10:12,Car 31 starts traveling,NA
+1,10:12,Car 86 starts traveling,NA
+1,10:13,Car 73 departs at charger 3,4
+1,10:14,Car 58 starts traveling,NA
+1,10:15,Car 91 arrives at charger 3,4
+1,10:15,Car 71 departs at charger 2,4
+1,10:16,Car 60 starts traveling,NA
+1,10:16,Car 73 finish traveling,NA
+1,10:16,Car 81 arrives at charger 10,9
+1,10:16,Car 95 arrives at charger 4,4
+1,10:17,Car 71 finish traveling,NA
+1,10:19,Car 77 arrives at charger 1,9
+1,10:20,Car 60 arrives at charger 2,4
+1,10:20,Car 28 departs at charger 8,4
+1,10:21,Car 58 arrives at charger 7,9
+1,10:21,Car 86 arrives at charger 8,4
+1,10:22,Car 28 finish traveling,NA
+1,10:22,Car 47 starts traveling,NA
+1,10:22,Car 55 starts traveling,NA
+1,10:22,Car 79 arrives at charger 1,10
+1,10:24,Car 65 starts traveling,NA
+1,10:24,Car 90 departs at charger 5,4
+1,10:25,Car 31 arrives at charger 5,4
+1,10:26,Car 47 arrives at charger 7,10
+1,10:26,Car 90 finish traveling,NA
+1,10:27,Car 96 starts traveling,NA
+1,10:31,Car 56 starts traveling,NA
+1,10:31,Car 61 starts traveling,NA
+1,10:33,Car 96 arrives at charger 10,10
+1,10:34,Car 27 starts traveling,NA
+1,10:35,Car 64 starts traveling,NA
+1,10:36,Car 48 starts traveling,NA
+1,10:36,Car 55 arrives at charger 10,11
+1,10:36,Car 93 starts traveling,NA
+1,10:38,Car 25 starts traveling,NA
+1,10:38,Car 78 starts traveling,NA
+1,10:38,Car 80 starts traveling,NA
+1,10:40,Car 62 starts traveling,NA
+1,10:40,Car 65 arrives at charger 7,11
+1,10:41,Car 25 arrives at charger 1,11
+1,10:41,Car 54 starts traveling,NA
+1,10:41,Car 56 arrives at charger 4,5
+1,10:41,Car 61 arrives at charger 3,5
+1,10:41,Car 93 arrives at charger 2,5
+1,10:42,Car 68 starts traveling,NA
+1,10:42,Car 70 starts traveling,NA
+1,10:42,Car 43 departs at charger 1,11
+1,10:43,Car 48 arrives at charger 1,11
+1,10:43,Car 88 starts traveling,NA
+1,10:44,Car 16 starts traveling,NA
+1,10:45,Car 78 arrives at charger 5,5
+1,10:47,Car 15 starts traveling,NA
+1,10:47,Car 64 arrives at charger 9,3
+1,10:47,Car 80 arrives at charger 6,3
+1,10:47,Car 2 departs at charger 7,11
+1,10:47,Car 75 departs at charger 10,11
+1,10:48,Car 68 arrives at charger 10,11
+1,10:48,Car 83 starts traveling,NA
+1,10:49,Car 44 starts traveling,NA
+1,10:50,Car 54 arrives at charger 7,11
+1,10:50,Car 75 finish traveling,NA
+1,10:51,Car 44 arrives at charger 8,5
+1,10:51,Car 70 arrives at charger 10,12
+1,10:52,Car 27 arrives at charger 1,12
+1,10:52,Car 76 starts traveling,NA
+1,10:55,Car 2 finish traveling,NA
+1,10:56,Car 17 starts traveling,NA
+1,10:56,Car 35 starts traveling,NA
+1,10:56,Car 62 arrives at charger 7,12
+1,10:56,Car 98 starts traveling,NA
+1,10:58,Car 43 finish traveling,NA
+1,10:58,Car 83 arrives at charger 1,13
+1,10:59,Car 100 starts traveling,NA
+1,11:00,Car 88 arrives at charger 7,13
+1,11:01,Car 15 arrives at charger 10,13
+1,11:01,Car 16 arrives at charger 1,14
+1,11:03,Car 76 arrives at charger 7,14
+1,11:05,Car 17 arrives at charger 10,14
+1,11:05,Car 98 arrives at charger 4,6
+1,11:07,Car 35 arrives at charger 3,6
+1,11:14,Car 100 arrives at charger 2,6
+1,11:27,Car 84 departs at charger 1,14
+1,11:32,Car 45 departs at charger 7,14
+1,11:32,Car 94 departs at charger 10,14
+1,11:38,Car 84 finish traveling,NA
+1,11:44,Car 94 finish traveling,NA
+1,11:50,Car 45 finish traveling,NA
+1,12:07,Car 9 departs at charger 4,6
+1,12:08,Car 9 finish traveling,NA
+1,12:12,Car 46 departs at charger 1,13
+1,12:13,Car 8 departs at charger 3,6
+1,12:15,Car 39 departs at charger 2,6
+1,12:16,Car 53 departs at charger 9,3
+1,12:17,Car 39 finish traveling,NA
+1,12:17,Car 36 departs at charger 7,13
+1,12:17,Car 13 departs at charger 10,13
+1,12:18,Car 53 finish traveling,NA
+1,12:20,Car 8 finish traveling,NA
+1,12:20,Car 13 finish traveling,NA
+1,12:20,Car 18 departs at charger 8,5
+1,12:23,Car 18 finish traveling,NA
+1,12:24,Car 32 departs at charger 5,5
+1,12:27,Car 32 finish traveling,NA
+1,12:29,Car 46 finish traveling,NA
+1,12:31,Car 36 finish traveling,NA
+1,12:46,Car 24 departs at charger 6,3
+1,12:53,Car 24 finish traveling,NA
+1,12:57,Car 92 departs at charger 1,12
+1,13:02,Car 26 departs at charger 7,12
+1,13:02,Car 63 departs at charger 10,12
+1,13:05,Car 92 finish traveling,NA
+1,13:14,Car 26 finish traveling,NA
+1,13:19,Car 63 finish traveling,NA
+1,13:42,Car 37 departs at charger 1,11
+1,13:47,Car 51 departs at charger 7,11
+1,13:47,Car 97 departs at charger 10,11
+1,13:49,Car 37 finish traveling,NA
+1,13:52,Car 97 finish traveling,NA
+1,14:05,Car 51 finish traveling,NA
+1,14:07,Car 57 departs at charger 4,5
+1,14:12,Car 57 finish traveling,NA
+1,14:13,Car 6 departs at charger 3,5
+1,14:15,Car 3 departs at charger 2,5
+1,14:20,Car 40 departs at charger 8,4
+1,14:20,Car 40 finish traveling,NA
+1,14:21,Car 6 finish traveling,NA
+1,14:24,Car 38 departs at charger 5,4
+1,14:27,Car 3 finish traveling,NA
+1,14:27,Car 89 departs at charger 1,10
+1,14:28,Car 38 finish traveling,NA
+1,14:32,Car 4 departs at charger 7,10
+1,14:32,Car 29 departs at charger 10,10
+1,14:33,Car 29 finish traveling,NA
+1,14:42,Car 89 finish traveling,NA
+1,14:46,Car 4 finish traveling,NA
+1,15:12,Car 52 departs at charger 1,9
+1,15:17,Car 72 departs at charger 7,9
+1,15:17,Car 33 departs at charger 10,9
+1,15:20,Car 52 finish traveling,NA
+1,15:21,Car 33 finish traveling,NA
+1,15:26,Car 72 finish traveling,NA
+1,15:57,Car 66 departs at charger 1,8
+1,16:02,Car 7 departs at charger 7,8
+1,16:02,Car 59 departs at charger 10,8
+1,16:03,Car 59 finish traveling,NA
+1,16:07,Car 74 departs at charger 4,4
+1,16:11,Car 7 finish traveling,NA
+1,16:11,Car 66 finish traveling,NA
+1,16:13,Car 85 departs at charger 3,4
+1,16:15,Car 34 departs at charger 2,4
+1,16:16,Car 74 finish traveling,NA
+1,16:16,Car 11 departs at charger 9,2
+1,16:19,Car 34 finish traveling,NA
+1,16:19,Car 85 finish traveling,NA
+1,16:20,Car 23 departs at charger 8,3
+1,16:24,Car 12 departs at charger 5,3
+1,16:25,Car 11 finish traveling,NA
+1,16:27,Car 12 finish traveling,NA
+1,16:34,Car 23 finish traveling,NA
+1,16:42,Car 42 departs at charger 1,7
+1,16:45,Car 42 finish traveling,NA
+1,16:46,Car 19 departs at charger 6,2
+1,16:47,Car 41 departs at charger 7,7
+1,16:47,Car 10 departs at charger 10,7
+1,16:50,Car 41 finish traveling,NA
+1,16:51,Car 19 finish traveling,NA
+1,17:00,Car 10 finish traveling,NA
+1,17:27,Car 77 departs at charger 1,6
+1,17:32,Car 77 finish traveling,NA
+1,17:32,Car 58 departs at charger 7,6
+1,17:32,Car 81 departs at charger 10,6
+1,17:33,Car 58 finish traveling,NA
+1,17:34,Car 81 finish traveling,NA
+1,18:07,Car 5 departs at charger 4,3
+1,18:12,Car 79 departs at charger 1,5
+1,18:13,Car 30 departs at charger 3,3
+1,18:14,Car 30 finish traveling,NA
+1,18:15,Car 5 finish traveling,NA
+1,18:15,Car 49 departs at charger 2,3
+1,18:17,Car 79 finish traveling,NA
+1,18:17,Car 47 departs at charger 7,5
+1,18:17,Car 96 departs at charger 10,5
+1,18:18,Car 49 finish traveling,NA
+1,18:20,Car 82 departs at charger 8,2
+1,18:22,Car 82 finish traveling,NA
+1,18:22,Car 96 finish traveling,NA
+1,18:24,Car 50 departs at charger 5,2
+1,18:29,Car 50 finish traveling,NA
+1,18:35,Car 47 finish traveling,NA
+1,18:57,Car 25 departs at charger 1,4
+1,19:01,Car 25 finish traveling,NA
+1,19:02,Car 65 departs at charger 7,4
+1,19:02,Car 55 departs at charger 10,4
+1,19:06,Car 55 finish traveling,NA
+1,19:08,Car 65 finish traveling,NA
+1,19:42,Car 48 departs at charger 1,3
+1,19:47,Car 54 departs at charger 7,3
+1,19:47,Car 68 departs at charger 10,3
+1,19:55,Car 48 finish traveling,NA
+1,19:56,Car 54 finish traveling,NA
+1,19:58,Car 68 finish traveling,NA
+1,20:07,Car 95 departs at charger 4,2
+1,20:11,Car 95 finish traveling,NA
+1,20:13,Car 91 departs at charger 3,2
+1,20:15,Car 60 departs at charger 2,2
+1,20:16,Car 87 departs at charger 9,1
+1,20:19,Car 91 finish traveling,NA
+1,20:20,Car 87 finish traveling,NA
+1,20:20,Car 86 departs at charger 8,1
+1,20:22,Car 86 finish traveling,NA
+1,20:24,Car 60 finish traveling,NA
+1,20:24,Car 31 departs at charger 5,1
+1,20:27,Car 27 departs at charger 1,2
+1,20:32,Car 62 departs at charger 7,2
+1,20:32,Car 70 departs at charger 10,2
+1,20:34,Car 62 finish traveling,NA
+1,20:37,Car 27 finish traveling,NA
+1,20:40,Car 31 finish traveling,NA
+1,20:45,Car 70 finish traveling,NA
+1,20:46,Car 1 departs at charger 6,1
+1,20:49,Car 1 finish traveling,NA
+1,21:12,Car 83 departs at charger 1,1
+1,21:17,Car 88 departs at charger 7,1
+1,21:17,Car 15 departs at charger 10,1
+1,21:21,Car 83 finish traveling,NA
+1,21:24,Car 15 finish traveling,NA
+1,21:34,Car 88 finish traveling,NA
+1,21:57,Car 16 departs at charger 1,0
+1,21:59,Car 16 finish traveling,NA
+1,22:02,Car 76 departs at charger 7,0
+1,22:02,Car 17 departs at charger 10,0
+1,22:07,Car 56 departs at charger 4,1
+1,22:13,Car 61 departs at charger 3,1
+1,22:15,Car 93 departs at charger 2,1
+1,22:17,Car 56 finish traveling,NA
+1,22:18,Car 17 finish traveling,NA
+1,22:19,Car 76 finish traveling,NA
+1,22:19,Car 93 finish traveling,NA
+1,22:20,Car 44 departs at charger 8,0
+1,22:23,Car 61 finish traveling,NA
+1,22:24,Car 78 departs at charger 5,0
+1,22:29,Car 44 finish traveling,NA
+1,22:36,Car 78 finish traveling,NA
+2,0:00,Car 98 cannot finish charging and depart at charger 4,NA
+2,0:00,Car 35 cannot wait for a charger today and finish traveling,NA
+2,0:00,Car 64 cannot wait for a charger today and finish traveling,NA
+2,0:00,Car 80 cannot wait for a charger today and finish traveling,NA
+2,0:00,Car 100 cannot wait for a charger today and finish traveling,NA
+2,0:08,Car 98 finish traveling,NA

@@ -1,0 +1,7 @@
+D,1
+n,20
+N,100
+Charger_charging_time,"[45, 120, 45, 45, 45, 120, 240, 45, 45, 45, 45, 120, 45, 120, 120, 45, 120, 120, 45, 240]"
+Car_file,car_default_random.csv
+Log_file,simulation_log.csv
+Summary_file,simulation_summary.csv
